@@ -1,0 +1,15 @@
+/* Custom callout for Claude Code suggestions */
+.callout[data-callout="claude"] {
+    --callout-color: 204, 127, 80; /* Claude's orange/brown color */
+    --callout-icon: lucide-bot; /* Bot/AI assistant icon */
+}
+
+.callout[data-callout="claude-code"] {
+    --callout-color: 204, 127, 80; /* Claude's orange/brown color */
+    --callout-icon: lucide-bot; /* Bot/AI assistant icon */
+}
+
+.callout[data-callout="cc"] {
+    --callout-color: 204, 127, 80; /* Claude's orange/brown color */
+    --callout-icon: lucide-bot; /* Bot/AI assistant icon */
+}

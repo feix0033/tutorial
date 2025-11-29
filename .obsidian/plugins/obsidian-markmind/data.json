@@ -1,0 +1,23 @@
+{
+  "canvasSize": 12000,
+  "headLevel": 4,
+  "fontSize": 12,
+  "background": "transparent",
+  "layout": "mindmap",
+  "layoutDirect": "right",
+  "protocol": "jump-to-pdf",
+  "registerPdfEvent": true,
+  "viewerTheme": 2,
+  "mindmapmode": "basic",
+  "parseMindMap": true,
+  "annotateTop": 0,
+  "annotateBottom": 0,
+  "showNodeBoard": true,
+  "useCustomShortcut": false,
+  "highlightFormat": "\nPage:{{page}}\n<span style=\"color:rgb({{color}})\">■</span>:{{highlightText}}\nComment:{{comment}}\n[📌]({{link}})\n^{{id}}\n",
+  "uid": "00p01100t01300t01000s00o00q01301100q00q",
+  "setup": 1759565058997,
+  "allowDblickCreateNode": true,
+  "useAnimate": true,
+  "openCodeBlock": true
+}

@@ -1,0 +1,6 @@
+{
+  "format": "YYYY/YYYY-MM/[W]-WW/DD-MM-YYYY",
+  "folder": "journals",
+  "template": "",
+  "autorun": false
+}
