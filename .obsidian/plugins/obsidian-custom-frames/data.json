@@ -1,0 +1,17 @@
+{
+  "frames": [
+    {
+      "url": "https://www.bilibili.com/",
+      "displayName": "BiliBili",
+      "icon": "",
+      "hideOnMobile": true,
+      "addRibbonIcon": false,
+      "openInCenter": false,
+      "zoomLevel": 0.8,
+      "forceIframe": false,
+      "customCss": "",
+      "customJs": ""
+    }
+  ],
+  "padding": 5
+}
